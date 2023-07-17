@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alisha-25
 - 👀 I’m interested in learning AI using Python 
-- 🌱 I’m currently learning Third year computer engg
-- 💞️ I’m looking to collaborate on Microsoft SAP
+- 🌱 I’m a fresher graduated with degree in computer engg in 2023
+- 💞️ I’m looking forward to implement my skills in the domain of data science, AI or ML.
 - 📫 How to reach me ... JUST FOLLOW
 
 <!---
